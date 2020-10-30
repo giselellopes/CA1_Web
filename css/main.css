@@ -1,0 +1,43 @@
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+  width: 50%;
+  margin: auto;
+}
+
+.footer {
+ position: fixed;
+ left: 0;
+ bottom: 0;
+ width: 100%;
+ background-color: black;
+ color: white;
+ text-align: center;
+}
+
+#results {
+    padding-left: 80px;
+}
+
+.error {
+    color: #FF0000;
+}
+
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+table {
+  border-spacing: 15px;
+}
+
+#container_form {
+    background-color: lightgray;
+    padding-left: 80px;
+}
+
+
+
+
+ 
